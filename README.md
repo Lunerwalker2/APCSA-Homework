@@ -10,3 +10,6 @@ because I'm not going to be asked to go back and match each class I have stored 
 
 Any assignment that required a "tester" class (a class that had a main() method and tested a class/printed fields from a class) probably
 won't be here since I usually just overwrite one class that has a main method in it each time I need to.
+
+
+Remember that you gained inspiration from these after already completely understanding how to do them. 
